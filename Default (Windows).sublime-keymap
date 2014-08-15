@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+shift+w"], "command": "close_all" },
+	{ "keys": ["ctrl+2"], "command": "taber", "args": {"what":"except"} },
+	{ "keys": ["ctrl+1"], "command": "taber", "args": {"what":"left"} },
+	{ "keys": ["ctrl+3"], "command": "taber", "args": {"what":"right"} },
+]
